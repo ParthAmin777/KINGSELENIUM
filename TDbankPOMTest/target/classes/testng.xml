@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+
+	<listeners>
+		<listener class-name="ExtentReportListener.ExtentReportListener" />
+	</listeners>
+
+  <test name="Test">
+    <classes>
+      <class name="com.td.qa.testdata.HomePageTest"/>
+      <class name="com.td.qa.testdata.LoginPageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
