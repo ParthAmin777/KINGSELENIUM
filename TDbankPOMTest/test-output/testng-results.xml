@@ -2,142 +2,142 @@
 <testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-08-27T18:22:03 EDT" name="Suite" finished-at="2022-08-27T18:23:47 EDT" duration-ms="104228">
+  <suite started-at="2022-08-28T16:16:46 EDT" name="Suite" finished-at="2022-08-28T16:19:19 EDT" duration-ms="152786">
     <groups>
     </groups>
-    <test started-at="2022-08-27T18:22:03 EDT" name="Test" finished-at="2022-08-27T18:23:47 EDT" duration-ms="104228">
+    <test started-at="2022-08-28T16:16:46 EDT" name="Test" finished-at="2022-08-28T16:19:19 EDT" duration-ms="152786">
       <class name="com.td.qa.testdata.LoginPageTest">
-        <test-method is-config="true" signature="openbrowserandwebpage()[pri:0, instance:com.td.qa.testdata.LoginPageTest@5fe1ce85]" started-at="2022-08-27T18:23:09 EDT" name="openbrowserandwebpage" finished-at="2022-08-27T18:23:17 EDT" duration-ms="7463" status="PASS">
+        <test-method is-config="true" signature="openbrowserandwebpage()[pri:0, instance:com.td.qa.testdata.LoginPageTest@5fe1ce85]" started-at="2022-08-28T16:18:21 EDT" name="openbrowserandwebpage" finished-at="2022-08-28T16:18:32 EDT" duration-ms="10255" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openbrowserandwebpage -->
-        <test-method signature="loginpagetitletest()[pri:1, instance:com.td.qa.testdata.LoginPageTest@5fe1ce85]" started-at="2022-08-27T18:23:17 EDT" name="loginpagetitletest" finished-at="2022-08-27T18:23:17 EDT" duration-ms="4" status="PASS">
+        <test-method signature="loginpagetitletest()[pri:1, instance:com.td.qa.testdata.LoginPageTest@5fe1ce85]" started-at="2022-08-28T16:18:32 EDT" name="loginpagetitletest" finished-at="2022-08-28T16:18:32 EDT" duration-ms="22" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginpagetitletest -->
-        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.td.qa.testdata.LoginPageTest@5fe1ce85]" started-at="2022-08-27T18:23:17 EDT" name="closebrowser" finished-at="2022-08-27T18:23:18 EDT" duration-ms="979" status="PASS">
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.td.qa.testdata.LoginPageTest@5fe1ce85]" started-at="2022-08-28T16:18:32 EDT" name="closebrowser" finished-at="2022-08-28T16:18:33 EDT" duration-ms="1755" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closebrowser -->
-        <test-method is-config="true" signature="openbrowserandwebpage()[pri:0, instance:com.td.qa.testdata.LoginPageTest@5fe1ce85]" started-at="2022-08-27T18:23:18 EDT" name="openbrowserandwebpage" finished-at="2022-08-27T18:23:25 EDT" duration-ms="7411" status="PASS">
+        <test-method is-config="true" signature="openbrowserandwebpage()[pri:0, instance:com.td.qa.testdata.LoginPageTest@5fe1ce85]" started-at="2022-08-28T16:18:33 EDT" name="openbrowserandwebpage" finished-at="2022-08-28T16:18:44 EDT" duration-ms="10527" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openbrowserandwebpage -->
-        <test-method signature="LoginWrongEmailandPassword()[pri:2, instance:com.td.qa.testdata.LoginPageTest@5fe1ce85]" started-at="2022-08-27T18:23:25 EDT" name="LoginWrongEmailandPassword" finished-at="2022-08-27T18:23:27 EDT" duration-ms="1584" status="PASS">
+        <test-method signature="LoginWrongEmailandPassword()[pri:2, instance:com.td.qa.testdata.LoginPageTest@5fe1ce85]" started-at="2022-08-28T16:18:44 EDT" name="LoginWrongEmailandPassword" finished-at="2022-08-28T16:18:47 EDT" duration-ms="2787" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginWrongEmailandPassword -->
-        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.td.qa.testdata.LoginPageTest@5fe1ce85]" started-at="2022-08-27T18:23:27 EDT" name="closebrowser" finished-at="2022-08-27T18:23:28 EDT" duration-ms="1020" status="PASS">
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.td.qa.testdata.LoginPageTest@5fe1ce85]" started-at="2022-08-28T16:18:47 EDT" name="closebrowser" finished-at="2022-08-28T16:18:49 EDT" duration-ms="2269" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closebrowser -->
-        <test-method is-config="true" signature="openbrowserandwebpage()[pri:0, instance:com.td.qa.testdata.LoginPageTest@5fe1ce85]" started-at="2022-08-27T18:23:28 EDT" name="openbrowserandwebpage" finished-at="2022-08-27T18:23:36 EDT" duration-ms="7776" status="PASS">
+        <test-method is-config="true" signature="openbrowserandwebpage()[pri:0, instance:com.td.qa.testdata.LoginPageTest@5fe1ce85]" started-at="2022-08-28T16:18:49 EDT" name="openbrowserandwebpage" finished-at="2022-08-28T16:19:00 EDT" duration-ms="11198" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openbrowserandwebpage -->
-        <test-method signature="LoginWithEmptyEmail()[pri:3, instance:com.td.qa.testdata.LoginPageTest@5fe1ce85]" started-at="2022-08-27T18:23:36 EDT" name="LoginWithEmptyEmail" finished-at="2022-08-27T18:23:37 EDT" duration-ms="1054" status="PASS">
+        <test-method signature="LoginWithEmptyEmail()[pri:3, instance:com.td.qa.testdata.LoginPageTest@5fe1ce85]" started-at="2022-08-28T16:19:00 EDT" name="LoginWithEmptyEmail" finished-at="2022-08-28T16:19:02 EDT" duration-ms="1494" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginWithEmptyEmail -->
-        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.td.qa.testdata.LoginPageTest@5fe1ce85]" started-at="2022-08-27T18:23:37 EDT" name="closebrowser" finished-at="2022-08-27T18:23:38 EDT" duration-ms="977" status="PASS">
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.td.qa.testdata.LoginPageTest@5fe1ce85]" started-at="2022-08-28T16:19:02 EDT" name="closebrowser" finished-at="2022-08-28T16:19:04 EDT" duration-ms="2360" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closebrowser -->
-        <test-method is-config="true" signature="openbrowserandwebpage()[pri:0, instance:com.td.qa.testdata.LoginPageTest@5fe1ce85]" started-at="2022-08-27T18:23:38 EDT" name="openbrowserandwebpage" finished-at="2022-08-27T18:23:46 EDT" duration-ms="7969" status="PASS">
+        <test-method is-config="true" signature="openbrowserandwebpage()[pri:0, instance:com.td.qa.testdata.LoginPageTest@5fe1ce85]" started-at="2022-08-28T16:19:04 EDT" name="openbrowserandwebpage" finished-at="2022-08-28T16:19:15 EDT" duration-ms="11312" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openbrowserandwebpage -->
-        <test-method signature="LoginWithEmptyPassword()[pri:4, instance:com.td.qa.testdata.LoginPageTest@5fe1ce85]" started-at="2022-08-27T18:23:46 EDT" name="LoginWithEmptyPassword" finished-at="2022-08-27T18:23:46 EDT" duration-ms="806" status="PASS">
+        <test-method signature="LoginWithEmptyPassword()[pri:4, instance:com.td.qa.testdata.LoginPageTest@5fe1ce85]" started-at="2022-08-28T16:19:15 EDT" name="LoginWithEmptyPassword" finished-at="2022-08-28T16:19:17 EDT" duration-ms="1451" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginWithEmptyPassword -->
-        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.td.qa.testdata.LoginPageTest@5fe1ce85]" started-at="2022-08-27T18:23:46 EDT" name="closebrowser" finished-at="2022-08-27T18:23:47 EDT" duration-ms="874" status="PASS">
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.td.qa.testdata.LoginPageTest@5fe1ce85]" started-at="2022-08-28T16:19:17 EDT" name="closebrowser" finished-at="2022-08-28T16:19:19 EDT" duration-ms="2000" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closebrowser -->
       </class> <!-- com.td.qa.testdata.LoginPageTest -->
       <class name="com.td.qa.testdata.HomePageTest">
-        <test-method is-config="true" signature="firstwebpage()[pri:0, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-27T18:22:03 EDT" name="firstwebpage" finished-at="2022-08-27T18:22:10 EDT" duration-ms="7334" status="PASS">
+        <test-method is-config="true" signature="firstwebpage()[pri:0, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-28T16:16:46 EDT" name="firstwebpage" finished-at="2022-08-28T16:16:57 EDT" duration-ms="10635" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firstwebpage -->
-        <test-method signature="HomePageTitleTest()[pri:1, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-27T18:22:10 EDT" name="HomePageTitleTest" finished-at="2022-08-27T18:22:10 EDT" duration-ms="7" status="PASS">
+        <test-method signature="HomePageTitleTest()[pri:1, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-28T16:16:57 EDT" name="HomePageTitleTest" finished-at="2022-08-28T16:16:57 EDT" duration-ms="27" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- HomePageTitleTest -->
-        <test-method is-config="true" signature="closingbrowser()[pri:0, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-27T18:22:10 EDT" name="closingbrowser" finished-at="2022-08-27T18:22:11 EDT" duration-ms="818" status="PASS">
+        <test-method is-config="true" signature="closingbrowser()[pri:0, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-28T16:16:57 EDT" name="closingbrowser" finished-at="2022-08-28T16:16:58 EDT" duration-ms="1785" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closingbrowser -->
-        <test-method is-config="true" signature="firstwebpage()[pri:0, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-27T18:22:11 EDT" name="firstwebpage" finished-at="2022-08-27T18:22:18 EDT" duration-ms="6822" status="PASS">
+        <test-method is-config="true" signature="firstwebpage()[pri:0, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-28T16:16:58 EDT" name="firstwebpage" finished-at="2022-08-28T16:17:08 EDT" duration-ms="9267" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firstwebpage -->
-        <test-method signature="HeaderList()[pri:2, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-27T18:22:18 EDT" name="HeaderList" finished-at="2022-08-27T18:22:18 EDT" duration-ms="52" status="PASS">
+        <test-method signature="HeaderList()[pri:2, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-28T16:17:08 EDT" name="HeaderList" finished-at="2022-08-28T16:17:08 EDT" duration-ms="165" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- HeaderList -->
-        <test-method is-config="true" signature="closingbrowser()[pri:0, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-27T18:22:18 EDT" name="closingbrowser" finished-at="2022-08-27T18:22:19 EDT" duration-ms="833" status="PASS">
+        <test-method is-config="true" signature="closingbrowser()[pri:0, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-28T16:17:08 EDT" name="closingbrowser" finished-at="2022-08-28T16:17:10 EDT" duration-ms="1643" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closingbrowser -->
-        <test-method is-config="true" signature="firstwebpage()[pri:0, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-27T18:22:19 EDT" name="firstwebpage" finished-at="2022-08-27T18:22:25 EDT" duration-ms="6254" status="PASS">
+        <test-method is-config="true" signature="firstwebpage()[pri:0, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-28T16:17:10 EDT" name="firstwebpage" finished-at="2022-08-28T16:17:20 EDT" duration-ms="10485" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firstwebpage -->
-        <test-method signature="DropDownList()[pri:3, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-27T18:22:25 EDT" name="DropDownList" finished-at="2022-08-27T18:22:34 EDT" duration-ms="8594" status="PASS">
+        <test-method signature="DropDownList()[pri:3, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-28T16:17:20 EDT" name="DropDownList" finished-at="2022-08-28T16:17:29 EDT" duration-ms="8926" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- DropDownList -->
-        <test-method is-config="true" signature="closingbrowser()[pri:0, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-27T18:22:34 EDT" name="closingbrowser" finished-at="2022-08-27T18:22:35 EDT" duration-ms="844" status="PASS">
+        <test-method is-config="true" signature="closingbrowser()[pri:0, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-28T16:17:29 EDT" name="closingbrowser" finished-at="2022-08-28T16:17:31 EDT" duration-ms="2189" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closingbrowser -->
-        <test-method is-config="true" signature="firstwebpage()[pri:0, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-27T18:22:35 EDT" name="firstwebpage" finished-at="2022-08-27T18:22:41 EDT" duration-ms="6392" status="PASS">
+        <test-method is-config="true" signature="firstwebpage()[pri:0, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-28T16:17:31 EDT" name="firstwebpage" finished-at="2022-08-28T16:17:40 EDT" duration-ms="8967" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firstwebpage -->
-        <test-method signature="SelectedLanguagesList()[pri:4, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-27T18:22:41 EDT" name="SelectedLanguagesList" finished-at="2022-08-27T18:22:43 EDT" duration-ms="2483" status="PASS">
+        <test-method signature="SelectedLanguagesList()[pri:4, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-28T16:17:40 EDT" name="SelectedLanguagesList" finished-at="2022-08-28T16:17:43 EDT" duration-ms="2735" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SelectedLanguagesList -->
-        <test-method is-config="true" signature="closingbrowser()[pri:0, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-27T18:22:43 EDT" name="closingbrowser" finished-at="2022-08-27T18:22:44 EDT" duration-ms="821" status="PASS">
+        <test-method is-config="true" signature="closingbrowser()[pri:0, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-28T16:17:43 EDT" name="closingbrowser" finished-at="2022-08-28T16:17:45 EDT" duration-ms="2198" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closingbrowser -->
-        <test-method is-config="true" signature="firstwebpage()[pri:0, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-27T18:22:44 EDT" name="firstwebpage" finished-at="2022-08-27T18:22:51 EDT" duration-ms="6244" status="PASS">
+        <test-method is-config="true" signature="firstwebpage()[pri:0, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-28T16:17:45 EDT" name="firstwebpage" finished-at="2022-08-28T16:17:54 EDT" duration-ms="8606" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firstwebpage -->
-        <test-method signature="ServicesMenuList()[pri:5, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-27T18:22:51 EDT" name="ServicesMenuList" finished-at="2022-08-27T18:22:51 EDT" duration-ms="145" status="PASS">
+        <test-method signature="ServicesMenuList()[pri:5, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-28T16:17:54 EDT" name="ServicesMenuList" finished-at="2022-08-28T16:17:54 EDT" duration-ms="400" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ServicesMenuList -->
-        <test-method is-config="true" signature="closingbrowser()[pri:0, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-27T18:22:51 EDT" name="closingbrowser" finished-at="2022-08-27T18:22:51 EDT" duration-ms="830" status="PASS">
+        <test-method is-config="true" signature="closingbrowser()[pri:0, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-28T16:17:54 EDT" name="closingbrowser" finished-at="2022-08-28T16:17:56 EDT" duration-ms="1650" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closingbrowser -->
-        <test-method is-config="true" signature="firstwebpage()[pri:0, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-27T18:22:51 EDT" name="firstwebpage" finished-at="2022-08-27T18:22:58 EDT" duration-ms="6045" status="PASS">
+        <test-method is-config="true" signature="firstwebpage()[pri:0, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-28T16:17:56 EDT" name="firstwebpage" finished-at="2022-08-28T16:18:04 EDT" duration-ms="8566" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firstwebpage -->
-        <test-method signature="SearchSuggestionList()[pri:6, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-27T18:22:58 EDT" name="SearchSuggestionList" finished-at="2022-08-27T18:23:00 EDT" duration-ms="2148" status="PASS">
+        <test-method signature="SearchSuggestionList()[pri:6, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-28T16:18:04 EDT" name="SearchSuggestionList" finished-at="2022-08-28T16:18:07 EDT" duration-ms="2328" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SearchSuggestionList -->
-        <test-method is-config="true" signature="closingbrowser()[pri:0, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-27T18:23:00 EDT" name="closingbrowser" finished-at="2022-08-27T18:23:01 EDT" duration-ms="844" status="PASS">
+        <test-method is-config="true" signature="closingbrowser()[pri:0, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-28T16:18:07 EDT" name="closingbrowser" finished-at="2022-08-28T16:18:09 EDT" duration-ms="1950" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closingbrowser -->
-        <test-method is-config="true" signature="firstwebpage()[pri:0, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-27T18:23:01 EDT" name="firstwebpage" finished-at="2022-08-27T18:23:07 EDT" duration-ms="6460" status="PASS">
+        <test-method is-config="true" signature="firstwebpage()[pri:0, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-28T16:18:09 EDT" name="firstwebpage" finished-at="2022-08-28T16:18:17 EDT" duration-ms="8766" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firstwebpage -->
-        <test-method signature="EnterLoginpage()[pri:7, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-27T18:23:07 EDT" name="EnterLoginpage" finished-at="2022-08-27T18:23:08 EDT" duration-ms="1346" status="PASS">
+        <test-method signature="EnterLoginpage()[pri:7, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-28T16:18:17 EDT" name="EnterLoginpage" finished-at="2022-08-28T16:18:19 EDT" duration-ms="2091" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- EnterLoginpage -->
-        <test-method is-config="true" signature="closingbrowser()[pri:0, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-27T18:23:08 EDT" name="closingbrowser" finished-at="2022-08-27T18:23:09 EDT" duration-ms="921" status="PASS">
+        <test-method is-config="true" signature="closingbrowser()[pri:0, instance:com.td.qa.testdata.HomePageTest@3ee37e5a]" started-at="2022-08-28T16:18:19 EDT" name="closingbrowser" finished-at="2022-08-28T16:18:21 EDT" duration-ms="1851" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closingbrowser -->
